@@ -1,4 +1,4 @@
-![](https://github.com/Raahul46/Earthquake-damage-classification/blob/master/source.gif)
+![](https://github.com/Raahul46/Earthquake-damage-classificationsource.gif)
 
 <hr></hr>
 
