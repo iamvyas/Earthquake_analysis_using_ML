@@ -1,0 +1,23 @@
+Status:
+The earthquake analysis model is trained using the Random forest algorithm projected with an accuracy over 70 %
+
+Future work:
+ Technical aspect:
+  One concern about the technical aspect is to improve its accuracy to much optimum levels
+  this can be done using convolutional neural networks, convolutional neural network acts as 
+  better options for scenarios with larger dataset features
+ 
+ Application aspect:
+  Aplication aspect requires more of composition and structural knowledge of buildings that
+  can withstand the earth quake of particular scale of impact.
+  
+  Our current objective helps us to find the relation between impact and physical features of
+  buildings like foundation type,foundation area etc.This helps us to have a basic level of 
+  understanding on how buildings aare being affected on each scale of impact.
+  
+  This should be further brought to study the compositional and structural aspect of building
+  under this dataset to help further to understand the structural properties which affects the
+  buildings
+  
+  understanding this property can help us to push the advantages of building houses that can
+  withstand earthquake impact in a better scale
